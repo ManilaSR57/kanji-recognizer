@@ -179,9 +179,8 @@ kanji-recognizer/
 
 ## Acknowledgements
 
-- **ETL Character Database (ETL8G):** Electrotechnical Laboratory (now National Institute of Advanced Industrial Science and Technology, AIST), Japan: <http://etlcdb.db.aist.go.jp/>. The training data comes from ETL8G, used under the database's terms of use.
+- **ETL Character Database (ETL8G):** Electrotechnical Laboratory, Japanese Technical Committee for Optical Character Recognition, ETL Character Database, 1973-1984, Japan: <http://etlcdb.db.aist.go.jp/>. The training data comes from ETL8G, used under the database's terms of use.
 - **MediaPipe Hand Landmarker:** Google, [model page](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker). The bundled `models/hand_landmarker.task` is redistributed unmodified under the Apache License 2.0 (see [`models/LICENSE-hand_landmarker.txt`](models/LICENSE-hand_landmarker.txt)).
-- Originally built as the final project for a computational science course (Seoul National University, Spring 2026).
 
 ## License
 
