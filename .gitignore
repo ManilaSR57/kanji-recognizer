@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dataset (ETL8G is not redistributable)
+data/
+
+# Local coursework files (report, slides) and leftovers
+coursework/
+
+# Extra training outputs; only runs/best_model.pt + metrics are versioned
+runs/*/
+runs/last_model.pt
+runs/*_split.csv
+
+# App output
+last_air_kanji_canvas.png
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
